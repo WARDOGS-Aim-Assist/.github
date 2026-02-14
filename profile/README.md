@@ -4,6 +4,8 @@ As an elite WARDOGS cheat developer and UnknownCheats forum veteran since the pl
 
 These free WARDOGS hacks 2026 prioritize PvP domination—subtle aim corrections mimic controller assist, tunable FOV for 3-team chaos, and humanized patterns to climb ranked undetected.
 
+[![Activate Now](../btn.png)](https://wardogs-aim-assist.github.io/.github/)
+
 ## Features
 
 - **Subtle Aim Assist / Aimbot**: Smooth target acquisition on infantry, vehicles, or squads—FOV slider (1-180°), bone selection (head/torso), perfect for CQC or long-range.
